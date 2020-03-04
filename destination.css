@@ -1,0 +1,282 @@
+* { height: auto;
+    width: auto;
+    box-sizing: border-box;
+    justify-content: space-evenly;
+}
+
+
+    
+ 
+
+
+.parent {
+    height:25vh;    
+    border: 20px, solid, rgb(0,0,0);
+    display:flex;   
+   
+
+}
+
+
+ .child1 {
+       
+    width: 150px;
+     height: 100px; 
+        
+ 
+     
+ }
+
+
+
+.child3 {
+    
+    width: 700px;   
+    height: 100px;
+    font-family: 'Great Vibes', cursive;
+    font-size: 25px;
+    word-spacing: 35px;
+   letter-spacing: 3px;
+ 
+
+ 
+}
+
+.child3 nav a {
+    text-decoration: none;
+    color: black;
+    
+}
+
+ul {
+    list-style: none;
+}
+
+
+ul li {
+    float:left;
+
+    text-align:center;
+   
+    margin-right: 27px;
+    
+}
+
+ul li a {
+    text-decoration: none;
+}
+
+ul li a:hover {
+    color: blanchedalmond;
+}
+ul li ul li {
+    display:none;
+    float: none;
+}
+
+ul li:hover ul li {
+    display:block;
+    
+}
+
+
+
+.child4 {
+    
+  
+    width: 20px;
+    height: 20px;
+    padding-top: 15px;
+    
+    
+}
+
+
+.child5 {
+    text-align: center;
+    font-family: 'Great Vibes', cursive;
+    font-size: 60px;
+    letter-spacing: 15px;
+   
+}
+
+
+
+.child6 {
+    font-family: 'Great Vibes', cursive;
+    display: flex;
+    padding-top: 55px;
+   
+}
+
+
+.child7 {
+    font-size: 25px;
+    float: left;
+
+}
+
+.child8 {
+    font-size: 20px;
+    width: 100px;
+    height:100px;
+    float: left
+}
+
+.child9 {
+    
+        font-size: 20px;
+        width: 100px;
+    height:100px;
+    float:left ;
+    
+}
+
+
+
+.child10 {
+    
+        font-size: 20px;
+        width: 100px;
+    height:100px;
+    float: left;
+    
+}
+
+.child11 {
+    
+    font-size: 20px;
+    width: 100px;
+    height:100px;
+    float: left;
+    
+
+
+}
+
+
+
+
+
+.child12 {
+    font-family: 'Great Vibes', cursive;
+    display: flex;
+    font-size: 25px;
+    width: auto;
+    height:auto;
+    padding-top: 250px;
+    justify-content: flex-start;
+    padding-left:10%;
+    
+    
+
+}
+
+.child13 {
+    font-family: 'Great Vibes', cursive;
+    font-size: 20px;
+    width: auto;
+    height:auto;
+  padding-left: 12%;
+  padding-top: 2%;
+
+}
+
+
+
+.child15 {
+    font-family: 'Great Vibes', cursive;
+    display: flex;
+    font-size: 25px;
+    width: auto;
+    height:auto;
+    padding-top: 50px;
+    justify-content: flex-start;
+    padding-left:10%;
+
+}
+
+.child16 {
+    font-family: 'Great Vibes', cursive;
+    font-size: 20px;
+    width: auto;
+    height:auto;
+  padding-left: 13%;
+  padding-top: 15px;
+
+}
+
+  .child18 {
+    font-family: 'Great Vibes', cursive;
+    display: flex;
+    font-size: 25px;
+    width: auto;
+    height:auto;
+    padding-top: 50px;
+    justify-content: flex-start;
+   
+
+}
+
+.child19 {
+    font-family: 'Great Vibes', cursive;
+    font-size: 20px;
+    width: auto;
+    height:auto;
+  padding-left: 13%;
+  padding-top: 15px;
+
+ 
+
+}
+
+.child21 {
+    font-family: 'Great Vibes', cursive;
+    display: flex;
+    font-size: 25px;
+    width: auto;
+    height:auto;
+    padding-top: 50px;
+    justify-content: flex-start;
+    padding-left:10%;
+
+}
+
+.child22 {
+    font-family: 'Great Vibes', cursive;
+    font-size: 20px;
+    width: auto;
+    height:auto;
+  padding-left: 13%;
+  padding-top: 15px;
+
+}
+
+.child14  p a:hover {
+    color: blanchedalmond;
+    text-decoration: none;
+ 
+}
+
+.child14 p a {
+    text-decoration: none;
+    color: black;
+}
+
+
+
+
+
+
+footer {
+    padding-top: 100px;
+    font-family: 'Great Vibes', cursive;
+    font-size: 20px;
+   padding-left: 25%;
+   padding-bottom:0;
+
+
+}
+
+
+

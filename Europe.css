@@ -1,0 +1,116 @@
+* {
+    height:auto;
+    width:auto;
+    box-sizing: border-box;
+    justify-content: space-evenly;
+    
+
+    
+}
+
+.parent {
+    height:40vh;    
+    border: 20px, solid, rgb(0,0,0);
+    display:flex;
+    
+    
+    
+    
+    
+   
+
+}
+
+
+ .child1 {
+    
+    
+    
+        width: 150px;
+     height: 100px; 
+        
+   
+     
+     
+ }
+
+
+
+
+
+
+
+.child3 {
+    
+    width: 700px;   
+    height: 200px;
+    font-family: 'Great Vibes', cursive;
+    font-size: 25px;
+    word-spacing: 35px;
+   letter-spacing: 3px;
+ padding-top: 15px;
+ 
+
+ 
+}
+
+.child3 nav a {
+    text-decoration: none;
+    color: black;
+    
+}
+
+ul {
+    list-style: none;
+}
+
+
+ul li {
+    float:left;
+
+    text-align:center;
+    line-height: 40px;
+    margin-right: 27px;
+    
+}
+
+ul li a {
+    text-decoration: none;
+}
+
+ul li a:hover {
+    color: blanchedalmond;
+}
+ul li ul li {
+    display:none;
+    float:none;
+}
+
+ul li:hover ul li {
+    display:block;
+    
+}
+
+
+.countries {
+    font-family: 'Great Vibes', cursive;
+    font-size: 25px;
+    display:flex;
+    order: initial;    
+    padding-bottom: 50px;
+}
+
+
+
+
+
+
+footer {
+    padding-top: 100px;
+    font-family: 'Great Vibes', cursive;
+    font-size: 20px;
+   padding-left: 25%;
+   padding-bottom:0;
+
+
+}

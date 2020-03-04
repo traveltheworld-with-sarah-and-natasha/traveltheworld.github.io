@@ -1,0 +1,175 @@
+s* {
+    height:auto;
+    width:auto;
+    box-sizing: border-box;
+    justify-content: space-evenly;
+    
+
+    
+}
+
+.parent {
+    height:40vh;    
+    border: 20px, solid, rgb(0,0,0);
+    display:flex;
+    
+    
+    
+    
+    
+    
+   
+
+}
+
+
+ .child1 {
+    
+    
+    
+        width: 150px;
+     height: 100px; 
+     padding-left: 20px;
+     padding-top: 20px;
+     
+        
+   
+     
+     
+ }
+
+
+
+
+
+
+
+.child3 {
+    
+    width: 700px;   
+    height: 200px;
+    font-family: 'Great Vibes', cursive;
+    font-size: 25px;
+    word-spacing: 35px;
+   letter-spacing: 3px;
+ padding-top: 15px;
+padding-right: 50px;
+ padding-left: 100px;
+}
+
+.child3 nav a {
+    text-decoration: none;
+    color: black;
+    
+}
+
+ul {
+    list-style: none;
+}
+
+
+ul li {
+    float:left;
+
+    text-align:center;
+    line-height: 40px;
+    margin-right: 27px;
+    
+}
+
+ul li a {
+    text-decoration: none;
+}
+
+ul li a:hover {
+    color: blanchedalmond;
+}
+ul li ul li {
+    display:none;
+    float:none;
+}
+
+ul li:hover ul li {
+    display:block;
+   
+    
+}
+
+
+
+.child4 {
+    
+  
+    width: 20px;
+    height: 20px;
+    padding-top: 35px;
+    
+    
+}
+
+.child5 {
+    width: 400px;
+    
+    height: 100px;
+    margin-top: -10%;
+    font-family: 'Great Vibes', cursive;
+    font-size: 25px;
+    
+    word-spacing: 25px;
+   letter-spacing: 3px;
+
+}
+
+
+
+
+.child6 {
+
+    font-family: 'Great Vibes', cursive;
+    display: flex;
+    font-size: 25px;
+    justify-content: center;
+}
+
+
+.child7 {
+    font-family: 'Great Vibes', cursive;
+    font-size: 20px;
+  
+}
+
+.child8 {
+    font-family: 'Great Vibes', cursive;
+    display: flex;
+    font-size: 23px;
+    padding-top: 4%;
+
+}
+
+
+
+
+
+.child9{
+
+   text-align: center;
+   display: block;
+   margin:auto 0;
+   
+}
+
+
+footer {
+    padding-top: 100px;
+    font-family: 'Great Vibes', cursive;
+    font-size: 20px;
+   padding-left: 25%;
+   padding-bottom:0;
+
+
+}
+
+.child4 {
+
+
+}

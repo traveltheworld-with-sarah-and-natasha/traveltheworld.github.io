@@ -1,0 +1,187 @@
+
+* {
+    height:auto;
+    width:auto;
+    box-sizing: border-box;
+    justify-content: space-evenly;
+    
+
+    
+}
+
+.parent {
+    height:40vh;    
+    border: 20px, solid, rgb(0,0,0);
+    display:flex;
+    
+    
+    
+    
+    
+   
+
+}
+
+
+ .child1 {
+    
+    
+    
+        width: 150px;
+     height: 100px; 
+        
+   
+     
+     
+ }
+
+
+
+
+
+
+
+.child3 {
+    
+    width: 700px;   
+    height: 200px;
+    font-family: 'Great Vibes', cursive;
+    font-size: 25px;
+    word-spacing: 35px;
+   letter-spacing: 3px;
+ padding-top: 15px;
+ 
+
+ 
+}
+
+.child3 nav a {
+    text-decoration: none;
+    color: black;
+    
+}
+
+ul {
+    list-style: none;
+    text-decoration: none;
+    color: black;
+}
+
+
+ul li {
+    float:left;
+
+    text-align:center;
+    line-height: 40px;
+    margin-right: 27px;
+    text-decoration: none;
+    color: black;
+    
+}
+
+ul li a {
+    text-decoration: none;
+   
+}
+
+ul li a:hover {
+    color: blanchedalmond;
+}
+ul li ul li {
+    display:none;
+   
+}
+
+ul li:hover ul li {
+    display:block;
+    
+}
+
+
+
+.child4 {
+    
+  
+    width: 20px;
+    height: 20px;
+    padding-top: 15px;
+    
+    
+}
+
+.child5 {
+    width: 400px;
+    
+    height: 100px;
+    margin-top: -10%;
+    font-family: 'Great Vibes', cursive;
+    font-size: 25px;
+    
+    word-spacing: 25px;
+   letter-spacing: 3px;
+
+}
+
+
+.mb-4 {
+    font-family: 'Great Vibes', cursive;
+    font-size: 30px;
+
+}
+
+
+.form-control {
+    display: flex;
+    flex-direction: column;
+   padding:10px;
+   font-family: 'Great Vibes', cursive;
+   font-size: 20px;
+}
+.form-control-box {
+
+   
+    margin-right:1045px;
+    margin-top:-10px;
+    margin-left: -8px;
+    font-family: 'Great Vibes', cursive;
+    font-size: 30px;
+    
+}
+
+
+
+
+
+
+.btn-info-btn-block {
+    margin:15px;
+    padding-left:30px;
+    padding-right:30px;
+    padding-top:15px;
+    padding-bottom:10px;
+    font-size: 25px;
+    font-family: 'Great Vibes', cursive;
+    background: white;
+    border-style: solid;
+    border-color: black;
+    cursor: pointer;
+
+}
+
+.btn-info-btn-block:hover {
+    color: blanchedalmond;
+    border: blanchedalmond;
+}
+
+
+
+
+footer {
+    padding-top: 100px;
+    font-family: 'Great Vibes', cursive;
+    font-size: 20px;
+   padding-left: 25%;
+   padding-bottom:0;
+
+
+}
